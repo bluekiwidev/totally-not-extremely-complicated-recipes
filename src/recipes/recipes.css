@@ -2,3 +2,10 @@
     margin-top: 20px;
     font-family: Arial;
 }
+.display {
+    max-width: 600px;
+    padding: 20px;
+    border: 2px solid #2c3e50;
+    border-radius: 10px;
+    background-color: #ecf0f1;
+}
