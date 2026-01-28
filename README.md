@@ -11,4 +11,4 @@ You can visit the website [here](http://bluekiwi.lol/totally-not-extremely-compl
 - Migrate to CF pages once I know how...
 
 note to self
-shift + option + f to remat google docs properly
+shift + option + f to remat Google Docs properly
