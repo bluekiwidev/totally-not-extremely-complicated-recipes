@@ -3,7 +3,7 @@ This was a joke that went too far. It all started with the cake recpie and is gr
 
 You can visit the website [here](http://bluekiwi.lol/totally-not-extremely-complicated-recipes/)
 
-The enchanted book is from [here](https://minecraft.fandom.com/wiki/Enchanted_Book?file=Enchanted_Book.gif)
+The enchanted book graphic is from [here](https://minecraft.fandom.com/wiki/Enchanted_Book?file=Enchanted_Book.gif)
 
 ## TODO:
 - Make some more recipes
